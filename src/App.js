@@ -30,7 +30,7 @@ function App() {
       <CssBaseline />
       <DebugRouter basename={process.env.PUBLIC_URL}>
         <Switch>
-          <Route exact path="/" component={Home} />
+          <Route exact path="/myPortfolio" component={Home} />
           <Route path="/resume" component={Resume} />
           <Route path="/portfolio" component={Portfolio} />
           <Route path="/contact" component={Contact} />
