@@ -28,9 +28,9 @@ function App() {
   return (
     <>
       <CssBaseline />
-      <DebugRouter basename={process.env.PUBLIC_URL}>
+      <DebugRouter basename="/myPortfolio">
         <Switch>
-          <Route exact path="/myPortfolio" component={Home} />
+          <Route exact path="/" component={Home} />
           <Route path="/resume" component={Resume} />
           <Route path="/portfolio" component={Portfolio} />
           <Route path="/contact" component={Contact} />
