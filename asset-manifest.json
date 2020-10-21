@@ -1,0 +1,34 @@
+{
+  "files": {
+    "main.css": "/myPortfolio/static/css/main.22a32171.chunk.css",
+    "main.js": "/myPortfolio/static/js/main.c5759ddd.chunk.js",
+    "main.js.map": "/myPortfolio/static/js/main.c5759ddd.chunk.js.map",
+    "runtime-main.js": "/myPortfolio/static/js/runtime-main.795cb1e6.js",
+    "runtime-main.js.map": "/myPortfolio/static/js/runtime-main.795cb1e6.js.map",
+    "static/js/2.09dfce07.chunk.js": "/myPortfolio/static/js/2.09dfce07.chunk.js",
+    "static/js/2.09dfce07.chunk.js.map": "/myPortfolio/static/js/2.09dfce07.chunk.js.map",
+    "index.html": "/myPortfolio/index.html",
+    "precache-manifest.49ca78244eec1ba320a17d0455b3ae5a.js": "/myPortfolio/precache-manifest.49ca78244eec1ba320a17d0455b3ae5a.js",
+    "service-worker.js": "/myPortfolio/service-worker.js",
+    "static/css/main.22a32171.chunk.css.map": "/myPortfolio/static/css/main.22a32171.chunk.css.map",
+    "static/js/2.09dfce07.chunk.js.LICENSE.txt": "/myPortfolio/static/js/2.09dfce07.chunk.js.LICENSE.txt",
+    "static/media/DayPlanner.png": "/myPortfolio/static/media/DayPlanner.2b635f86.png",
+    "static/media/EmployeeDirectory.png": "/myPortfolio/static/media/EmployeeDirectory.c8e30ab4.png",
+    "static/media/NewResume.pdf": "/myPortfolio/static/media/NewResume.395595e9.pdf",
+    "static/media/RockYourWorld.png": "/myPortfolio/static/media/RockYourWorld.94ef7a05.png",
+    "static/media/ToCookorNottoCook.png": "/myPortfolio/static/media/ToCookorNottoCook.3682168b.png",
+    "static/media/ViVi.png": "/myPortfolio/static/media/ViVi.030defb1.png",
+    "static/media/WeatherDashboard.png": "/myPortfolio/static/media/WeatherDashboard.69cdd022.png",
+    "static/media/avatar.png": "/myPortfolio/static/media/avatar.e6f283a2.png",
+    "static/media/App.css": "/myPortfolio/static/media/backgroundimage.2dd213aa.jpg",
+    "static/media/myimg3.png": "/myPortfolio/static/media/myimg3.b2f00871.png",
+    "static/media/resume1.png": "/myPortfolio/static/media/resume1.cebff03e.png",
+    "static/media/resume2.png": "/myPortfolio/static/media/resume2.ebb4cfb8.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.795cb1e6.js",
+    "static/js/2.09dfce07.chunk.js",
+    "static/css/main.22a32171.chunk.css",
+    "static/js/main.c5759ddd.chunk.js"
+  ]
+}
