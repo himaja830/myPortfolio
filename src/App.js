@@ -12,7 +12,7 @@ function App() {
   return (
     <>
       <CssBaseline />
-      <BrowserRouter basename="/test">
+      <BrowserRouter basename={process.env.PUBLIC_URL}>
         <Route exact path="/" component={Home} />
         <Route path="/resume" component={Resume} />
         <Route path="/portfolio" component={Portfolio} />
